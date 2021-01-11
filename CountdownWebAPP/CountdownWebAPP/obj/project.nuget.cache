@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9VET5uDHl+/JQ7bMqPaJl1nW/zbPY7qSsUDzpznMmnKGTg/82JKmTnbOvlv5015UQZ2mQRMeYxwCKWBu/mQsbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guill\\source\\repos\\CountdownProject\\Countdown\\CountdownWebAPP\\CountdownWebAPP\\CountdownWebAPP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guill\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

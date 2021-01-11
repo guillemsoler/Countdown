@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountdownWebAPP", "CountdownWebAPP\CountdownWebAPP.csproj", "{E257D95B-18A9-4E9A-A8F9-455EC851315F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Countdown.UnitTests", "Countdown.UnitTests\Countdown.UnitTests.csproj", "{53982F71-8EDF-4A16-BD27-6B7D9CD92B5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E257D95B-18A9-4E9A-A8F9-455EC851315F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E257D95B-18A9-4E9A-A8F9-455EC851315F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E257D95B-18A9-4E9A-A8F9-455EC851315F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E257D95B-18A9-4E9A-A8F9-455EC851315F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53982F71-8EDF-4A16-BD27-6B7D9CD92B5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53982F71-8EDF-4A16-BD27-6B7D9CD92B5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53982F71-8EDF-4A16-BD27-6B7D9CD92B5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53982F71-8EDF-4A16-BD27-6B7D9CD92B5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {909F0D1B-0450-46E9-A4B7-8BAB19AEF6FE}
+	EndGlobalSection
+EndGlobal
